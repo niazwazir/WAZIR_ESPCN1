@@ -1,0 +1,6 @@
+FIRST OF ALl YOU DOWNLOAD THIS CODE
+YOu GO IN data/dataset/91-image-x3 AND UNZIP IT
+THAN USED BELOW COMMANDS
+#python main.py --print-config
+#python main.py --train
+#python main.py --test-image
